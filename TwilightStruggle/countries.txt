@@ -1,0 +1,84 @@
+U.S.A.::0::false
+Canada::4::false
+Mexico::2::true
+Guatemala::1::false
+El Salvador::1::false
+Honduras::2::false
+Cuba::3::true
+Haiti::1::false
+Dominican Rep.::1::false
+Costa Rica::3::false
+Panama::2::true
+Colombia::1::false
+Venezuela::2::true
+Brazil::2::true
+Ecuador::2::false
+Peru::2::false
+Bolivia::2::false
+Chile::3::true
+Argentina::2::true
+Paraguay::2::false
+Uruguay::2::false
+U.K.::5::false
+Benelux::3::false
+W. Germany::4::true
+France::3::true
+Spain/Portugal::2::false
+Italy::2::true
+Norway::4::true
+Sweden::4::true
+Finland::4::false
+E. Germany::3::true
+Poland::3::true
+Czechoslovakia::3::false
+Hungary::3::false
+U.S.S.R.::0::false
+Romania::3::false
+Austria::4::false
+Yugoslavia::3::false
+Greece::2::false
+Bulgaria::3::false
+Turkey::2::false
+Syria::2::false
+Lebanon::1::false
+Israel::4::true
+Jordan::2::false
+Iraq::3::true
+Iran::2::true
+Gulf States::3::false
+Saudi Arabia::3::true
+Egypt::2::true
+Libya::2::true
+Tunisia::2::false
+Algeria::2::true
+Morocco::3::false
+West African States::2::false
+Ivory Coast::2::false
+Nigeria::1::true
+Saharan States::1::false
+Cameroon::1::false
+Zaire::1::true
+Angola::1::true
+South Africa::3::true
+Botswana::2::false
+Zimbabwe::1::false
+SE African States::1::false
+Kenya::2::false
+Somalia::2::false
+Ethiopia::1::false
+Afghanistan::2::false
+Pakistan::2::true
+India::3::true
+Burma::2::false
+Laos/Cambodia::1::false
+Vietnam::1::false
+Thailand::2::true
+Malaysia::2::false
+Australia::4::false
+Indonesia::1::false
+Philippines::2::false
+Japan::4::true
+Taiwan::3::false
+S. Korea::3::true
+N. Korea::3::true
+Chinese Civil War::3::false

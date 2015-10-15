@@ -1,0 +1,122 @@
+U.S.A.::Canada
+U.S.A.::Mexico
+U.S.A.::Cuba
+U.S.A.::Japan
+Canada::U.K.
+Mexico::Guatemala
+Guatemala::Honduras
+Guatemala::El Salvador
+El Salvador::Honduras
+Honduras::Nicaragua
+Cuba::Haiti
+Cuba::Nicaragua
+Haiti::Dominican Rep.
+Costa Rica::Honduras
+Costa Rica::Nicaragua
+Costa Rica::Panama
+Panama::Colombia
+Colombia::Venezuela
+Colombia::Ecuador
+Venezuela::Brazil
+Brazil::Uruguay
+Ecuador::Peru
+Peru::Bolivia
+Peru::Chile
+Bolivia::Paraguay
+Chile::Argentina
+Argentina::Paraguay
+Argentina::Uruguay
+Paraguay::Uruguay
+U.K.::France
+U.K.::Norway
+U.K.::Benelux
+Benelux::W. Germany
+W. Germany::France
+W. Germany::E. Germany
+W. Germany::Denmark
+W.Germany::Austria
+France::Spain/Portugal
+France::Italy
+Spain/Portugal::Italy
+Italy::Austria
+Italy::Yugoslavia
+Italy::Greece
+Sweden::Norway
+Denmark::Sweden
+Sweden::Finland
+Finland::U.S.S.R.
+E. Germany::Poland
+E. Germany::Austria
+E. Germany::Czechoslovakia
+Poland::Czechoslovakia
+Poland::U.S.S.R.
+Czechoslovakia::Hungary
+Hungary::Austria
+Hungary::Yugoslavia
+Hungary::Romania
+U.S.S.R.::Romania
+U.S.S.R.::Afghanistan
+U.S.S.R.::Chinese Civil War
+U.S.S.R.::N. Korea
+Romania::Turkey
+Romania::Yugoslavia
+Yugoslavia::Greece
+Greece::Bulgaria
+Greece::Turkey
+Bulgaria::Turkey
+Turkey::Syria
+Syria::Lebanon
+Syria::Israel
+Lebanon::Israel
+Israel::Egypt
+Israel::Jordan
+Jordan::Iraq
+Jordan::Saudi Arabia
+Jordan::Lebanon
+Iraq::Saudi Arabia
+Iraq::Gulf States
+Iraq::Iran
+Iran::Afghanistan
+Iran::Pakistan
+Gulf States::Saudi Arabia
+Egypt::Libya
+Egypt::Sudan
+Libya::Tunisia
+Tunisia::Algeria
+Algeria::France
+Algeria::Morocco
+Algeria::Saharan States
+Spain/Portugal::Morocco
+Morocco::West African States
+West African States::Ivory Coast
+Ivory Coast::Nigeria
+Nigeria::Saharan States
+Nigeria::Cameroon
+Cameroon::Zaire
+Zaire::Angola
+Zaire::Zimbabwe
+Angola::Botswana
+Angola::South Africa
+South Africa::Botswana
+Botswana::Zimbabwe
+Zimbabwe::SE African States
+SE African States::Kenya
+Kenya::Somalia
+Somalia::Ethiopia
+Ethiopia::Sudan
+Afghanistan::Pakistan
+Pakistan::India
+India::Burma
+Burma::Laos/Cambodia
+Laos/Cambodia::Thailand
+Laos/Cambodia::Vietnam
+Vietnam::Thailand
+Thailand::Malaysia
+Malaysia::Australia
+Malaysia::Indonesia
+Philippines::Indonesia
+Philippines::Japan
+Japan::Taiwan
+Japan::S. Korea
+Taiwan::S. Korea
+S. Korea::N. Korea
